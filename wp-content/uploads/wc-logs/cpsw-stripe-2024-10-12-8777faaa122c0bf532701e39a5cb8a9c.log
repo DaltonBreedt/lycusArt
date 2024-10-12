@@ -1,0 +1,28 @@
+2024-10-12T02:02:35+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:02:35+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:02:35+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:02:35+00:00 ERROR Error creating Stripe webhook. Mode: live. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:03:01+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:03:01+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:03:23+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:03:23+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:03:23+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:03:23+00:00 ERROR Error creating Stripe webhook. Mode: live. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:04:06+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:04:06+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:04:14+00:00 ERROR Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
+2024-10-12T02:04:14+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+----
